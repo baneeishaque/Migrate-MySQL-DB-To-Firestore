@@ -1114,5 +1114,6 @@
         "ext-mysqli": "*",
         "ext-grpc": "*"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
